@@ -1,0 +1,46 @@
+{
+  "name": "Map Control",
+  "version": "1.0",
+  "description": "An Oracle APEX region plugin that allows users to switch between different map background styles such as satellite, street, and terrain views in a dynamic and user-friendly way.",
+  "keywords": [
+    "map",
+    "map control",
+    "control",
+    "custom control",
+    "background",
+    "GIS",
+    "tiles",
+    "basemap",
+    "maptiles",
+    "item plugin"
+  ],
+  "homepage": "https://github.com/AbjabjaSalahEddine/Map-Control-Plugin",
+  "bugs": {
+    "url": "https://github.com/AbjabjaSalahEddine/Map-Control-Plugin/issues",
+    "email": "abjabja_salaheddine@hotmail.com"
+  },
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Salah-Eddine ABJABJA",
+    "email": "abjabja_salaheddine@hotmail.com",
+    "url": "https://github.com/AbjabjaSalahEddine",
+    "donationUrl": "https://buymeacoffee.com/abjabjasalaheddine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbjabjaSalahEddine/Map-Control-Plugin.git"
+  },
+  "oracle": {
+    "versions": ["23ai"],
+    "apex": {
+      "versions": ["24.2"],
+      "plugin": {
+        "internalName": "MAP_CONTROL",
+        "type": "item",
+        "demo": "https://gd8453f98ce7e4e-xo9cnlh2n3sschli.adb.eu-amsterdam-1.oraclecloudapps.com/ords/r/dev/scratch/map-control-plugin",
+        "previewImage": "https://raw.githubusercontent.com/AbjabjaSalahEddine/Map-Background-Switcher-Plugin/main/how_it_looks.gif"
+      }
+    }
+  }
+}
