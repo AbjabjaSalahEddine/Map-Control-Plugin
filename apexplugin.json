@@ -1,7 +1,7 @@
 {
   "name": "Map Control",
   "version": "1.0",
-  "description": "An Oracle APEX region plugin that allows users to switch between different map background styles such as satellite, street, and terrain views in a dynamic and user-friendly way.",
+  "description": "A custom Oracle APEX region plugin that allows developers to add custom controls to a Map Region at runtime. Perfect for enhancing user interaction with maps — add buttons, selectors, toggles, or any UI component directly on top of your map.",
   "keywords": [
     "map",
     "map control",
