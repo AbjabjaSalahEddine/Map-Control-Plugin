@@ -49,4 +49,6 @@ Follow these steps to add the APEX Map Control Plugin to your application:
 ![How it looks](./how_it_looks.gif)
 
 
-## 🧑‍💻 Author Built with ❤️ for Oracle APEX by **ABJABJA Salah-Eddine**
+
+## 🧑‍💻 Author
+Built with ❤️ for Oracle APEX by ABJABJA Salah-Eddine.
